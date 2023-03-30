@@ -1,3 +1,3 @@
-<?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-?>
+A MAIOR TORCIDA DO MUNDO FAZ A DIFERENÇA!!!!
+
+OHHHH OHHH VAI PRA CIMA DELES MENGOOOOOOO!!!
